@@ -1,2 +1,1 @@
-# desarrollo-web-portafolio
-Proyecto realizado 
+# Optimizacion de carga
